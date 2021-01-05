@@ -15,7 +15,7 @@
     "upload": "cd dist; git init; git add .; git commit -am \"上传更新\"; git remote add origin git@github.com:quietdw/vue-blog-preview.git; git push -f origin master"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "element-ui": "^2.5.4",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
